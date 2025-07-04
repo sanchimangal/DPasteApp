@@ -1,4 +1,4 @@
-git import { Copy, PlusCircle } from "lucide-react";
+ import { Copy, PlusCircle } from "lucide-react";
 import { useEffect, useState } from "react";
 import toast from "react-hot-toast";
 import { useDispatch, useSelector } from "react-redux";
